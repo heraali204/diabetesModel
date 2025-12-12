@@ -1,4 +1,4 @@
-# diabetesModel
+# Modeling on Diabetes Dataset
 Hera Ali — portfolio project on diabetes data for learning.
 
 # Project 01 — Diabetes Classification (EDA + Baseline Models)
