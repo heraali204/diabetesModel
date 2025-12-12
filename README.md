@@ -16,10 +16,9 @@ A small end-to-end machine learning project using a diabetes dataset:
 ## Project Structure
 
 project_01_health_EDA/
-├── data/
-│   └── diabetes.csv
-├── notebook.ipynb
-└── README.md
+- data/diabetes.csv
+- notebook.ipynb
+- README.md
 
 ---
 
